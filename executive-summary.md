@@ -10,5 +10,5 @@ Using datasets collected from public sources, the project applied data cleaning,
 
 These insights aim to inform humanitarian actors, media organisations, and the public on the scale and timing of the crisis, supporting efforts in resource planning, policy response, and public advocacy.
 
-**Full Report**: https://docs.google.com/document/d/11GT-WzfGr6jiww22y2jUbVrPnBPyAoEB41NOseGY9PI/edit?usp=sharing
-**Dashboard**: https://www.kaggle.com/code/rasyidbejay/humanitarian-impact-gaza-westbank-visualisation
+**Full Report**: [View on Google Docs](https://docs.google.com/document/d/1IGT-WzfGr6jiww22y2jUbVrPnBPyAoEB41NOseGY9Pl/edit?usp=sharing)  
+**Dashboard**: [View on Kaggle](https://www.kaggle.com/code/rasyidbejay/humanitarian-impact-gaza-westbank-visualisation)
