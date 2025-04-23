@@ -35,9 +35,8 @@ This project investigates the humanitarian impact of the conflict in Gaza and th
 
 ## Access the Project
 
-- [Final Report (PDF)](#)  
-- [Tableau Dashboard](#)  
-- [Kaggle Notebook (if available)](#)
+- [Final Report (PDF)](https://docs.google.com/document/d/1IGT-WzfGr6jiww22y2jUbVrPnBPyAoEB41NOseGY9Pl/edit?usp=sharing)
+- [Kaggle Notebook – Full Analysis and Visualisation](https://www.kaggle.com/code/rasyidbejay/humanitarian-impact-gaza-westbank-visualisation)
 
 ## License & Acknowledgements
 
