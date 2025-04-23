@@ -1,43 +1,47 @@
 # Humanitarian Impact Assessment: Gaza and West Bank
 
-This project investigates the humanitarian impact of the conflict in Gaza and the West Bank from October 2023 to March 2025. The analysis focuses on civilian casualties, journalist fatalities, and infrastructure damage, offering data-driven insights to inform humanitarian efforts and public awareness.
+This project analyses the humanitarian impact of the Gaza and West Bank conflict (Oct 2023 – Mar 2025), focusing on casualties, journalist fatalities, and infrastructure damage.
 
-## Project Information
+---
 
-**Author**: Mohammad Rashid Abdullah  
-**Role**: Junior Data Analyst  
-**Date**: April 2025  
-**Tools**: Python (Pandas, Plotly), Microsoft Excel, Tableau Public
+## Author  
+**Mohammad Rashid Abdullah**  
+Junior Data Analyst | April 2025
 
-## Repository Structure
+**Tools Used**: Python (Pandas, Plotly), Excel, Kaggle Notebooks
 
-```
-├── datasets/               # Cleaned datasets used in analysis
-├── notebooks/              # Jupyter notebooks (cleaning, EDA, visualisation)
-├── visualisations/         # Exported PNG charts and figures
-├── final-report.pdf        # Full written report with findings and recommendations
-├── executive-summary.md    # Concise overview of key insights
-└── README.md               # Project documentation
-```
+---
 
-## Summary of Findings
+## Key Findings
 
-- Gaza experienced significantly higher daily casualties than the West Bank, especially during late 2023.
-- Journalist fatalities peaked during key periods of escalation, highlighting the risks faced by media personnel.
-- Public infrastructure—particularly schools, hospitals, and residential buildings—suffered severe damage in conflict-affected zones.
+- Gaza reported consistently higher daily casualties than the West Bank.
+- Journalist fatalities spiked during conflict escalation phases.
+- Infrastructure damage was most severe in Gaza, affecting schools, hospitals, and homes.
 
-## Deliverables
+---
 
-- Cleaned and structured datasets
-- Analytical notebooks covering cleaning, EDA, and visualisation
-- A comprehensive final report with discussion and recommendations
-- Visual outputs summarised for dashboards and public use
+## Visual Overview
+
+| Chart | Description |
+|-------|-------------|
+| ![Gaza Casualties](visualisations/gaza_daily_casualties.png) | Daily deaths and injuries in Gaza |
+| ![West Bank Casualties](visualisations/westbank_daily_fatalities.png) | Daily deaths in the West Bank |
+| ![Journalist Fatalities](visualisations/journalist_fatalities.png) | Timeline of press fatalities |
+| ![Infrastructure Treemap](visualisations/infrastructure_treemap.png) | Sectoral damage overview |
+
+> All charts generated using Plotly in Kaggle.
+
+---
 
 ## Access the Project
 
-- [Final Report (PDF)](https://docs.google.com/document/d/1IGT-WzfGr6jiww22y2jUbVrPnBPyAoEB41NOseGY9Pl/edit?usp=sharing)
-- [Kaggle Notebook – Full Analysis and Visualisation](https://www.kaggle.com/code/rasyidbejay/humanitarian-impact-gaza-westbank-visualisation)
+- [View Full Report (Google Docs)](https://docs.google.com/document/d/1IGT-WzfGr6jiww22y2jUbVrPnBPyAoEB41NOseGY9Pl/edit?usp=sharing)  
+- [Run on Kaggle Notebook](https://www.kaggle.com/code/rasyidbejay/humanitarian-impact-gaza-westbank-visualisation)
 
-## License & Acknowledgements
+---
 
-This project is shared for educational and awareness purposes. Feedback and collaboration are welcome.
+## License
+
+Shared for educational and awareness purposes.
+
+
